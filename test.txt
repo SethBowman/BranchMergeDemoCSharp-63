@@ -1,0 +1,2 @@
+Hello class!
+We are learning Git Branching and Merging
