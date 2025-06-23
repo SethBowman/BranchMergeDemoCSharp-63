@@ -1,2 +1,3 @@
 Hello class!
 We are learning Git Branching and Merging
+Line three from the feature branch
